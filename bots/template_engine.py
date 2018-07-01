@@ -14,3 +14,9 @@ class TemplateEngine():
 
   def get_move(self):
     return 'e2e4'
+
+  def set_position(self, moves):
+  	pass
+
+  def new_game(self):
+  	pass
